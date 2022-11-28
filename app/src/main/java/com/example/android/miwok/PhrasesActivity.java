@@ -19,7 +19,7 @@ public class PhrasesActivity extends AppCompatActivity {
 
         //words.add("one");
         words.add(new Word("Where are u going", "minto wuksus"));
-        words.add(new Word("What is your name?", "tinnә oyaase'nә";
+        words.add(new Word("What is your name?", "tinnә oyaase'nә"));
         words.add(new Word("My name is...", "oyaaset..."));
         words.add(new Word("How are you feeling?", "michәksәs?"));
         words.add(new Word("I’m feeling good.", "kuchi achit"));
