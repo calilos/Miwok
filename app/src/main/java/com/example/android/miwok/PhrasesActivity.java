@@ -30,6 +30,7 @@ public class PhrasesActivity extends AppCompatActivity {
         words.add(new Word("Come here.", "әnni'nem"));
 
 
+
         WordAdapter adapter =
                 new WordAdapter(this, words);
 
