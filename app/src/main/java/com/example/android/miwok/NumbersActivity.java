@@ -19,7 +19,7 @@ public class NumbersActivity extends AppCompatActivity {
         setContentView(R.layout.word_list);
 
         //Create an array of word
-        ArrayList<Word> words = new ArrayList<Word>();
+        final ArrayList<Word> words = new ArrayList<Word>();
 
         //words.add("one");
         words.add(new Word("one", "lutti", R.drawable.number_one));
